@@ -4,6 +4,7 @@
 Aluno: João Vitor Franco Moraes  
 RA: 25001068  
 Data: 25/03/2026  
+
 ---
 
 # 1. Definição do MVP
