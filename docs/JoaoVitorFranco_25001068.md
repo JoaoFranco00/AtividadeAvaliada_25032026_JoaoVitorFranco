@@ -1,9 +1,9 @@
 # Avaliação — Engenharia de Software
 **Sistema Integrado de Gestão de Farmácia — MVP Definido pelo Estudante**
 
-Aluno: João Vitor Franco Moraes
-RA: 25001068
-Data: 25/03/2026
+Aluno: João Vitor Franco Moraes  
+RA: 25001068  
+Data: 25/03/2026  
 ---
 
 # 1. Definição do MVP
