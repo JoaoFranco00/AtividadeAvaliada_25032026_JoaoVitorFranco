@@ -8,7 +8,7 @@ Data: 25/03/2026
 
 # 1. Definição do MVP
 
-> "Meu MVP inclui o processo de venda da identificação e cadastro de um cliente até a emissão do comprovante da venda, também inclui a verificação do estoque e tratamente de exceções como estoque insuficiente e cliente não cadastrado."
+> Meu MVP inclui o processo de venda da identificação e cadastro de um cliente até a emissão do comprovante da venda, também inclui a verificação do estoque e tratamente de exceções como estoque insuficiente e cliente não cadastrado.
 
 **Dentro do MVP:**
 - Cadastro e identificação de clientes
